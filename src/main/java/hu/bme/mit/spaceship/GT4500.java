@@ -2,6 +2,7 @@ package hu.bme.mit.spaceship;
 
 /**
 * A simple spaceship with two proton torpedo stores and four lasers and a merge conflict A
+* A simple spaceship with two proton torpedo stores and four lasers but a merge conflict B
 */
 public class GT4500 implements SpaceShip {
 
